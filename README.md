@@ -119,9 +119,13 @@ wellmind-connect-prototype/
 
 │
 ├── app.py      # Main application file
+
 ├── requirements.txt            # Python dependencies
+
 ├── mood_history.json           # Sample mood tracking data
+
 ├── README.md                   # Project documentation
+
 └── assets/                     # (optional) images, UI files
 
 
