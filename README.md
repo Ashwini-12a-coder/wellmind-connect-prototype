@@ -8,12 +8,19 @@ Our goal is to reduce the stigma surrounding mental health by offering an AI com
 
 💡 Key Features
 Feature	Description
-🤖 Empathetic AI Chatbot (Gemini-based)	Provides multilingual, emotion-aware conversations for daily check-ins and guidance.
-😊 Mood Tracking & Journaling	Allows users to record mood entries using emojis/text and view emotional trends.
-🛟 Crisis Detection & Helpline Integration	Detects distress signals and connects users to verified helplines in real time.
-💬 Personalized Coping Strategies	Suggests wellness tips, relaxation techniques, or study motivation based on mood.
-🌐 Multilingual Accessibility	Supports English and Indian regional languages for inclusivity.
-🔐 Confidential & Secure	Built with Firebase authentication and Google Cloud to ensure privacy.
+
+🤖 Empathetic AI Chatbot (Gemini-based)-Provides multilingual, emotion-aware conversations for daily check-ins and guidance.
+
+😊 Mood Tracking & Journaling-Allows users to record mood entries using emojis/text and view emotional trends.
+
+Crisis Detection & Helpline Integration-Detects distress signals and connects users to verified helplines in real time.
+
+💬 Personalized Coping Strategies-Suggests wellness tips, relaxation techniques, or study motivation based on mood.
+
+🌐 Multilingual Accessibility-Supports English and Indian regional languages for inclusivity.
+
+🔐 Confidential & Secure-Built with Firebase authentication and Google Cloud to ensure privacy.
+
 🚀 Tech Stack
 Layer	Technologies
 Frontend	Streamlit / React / Flutter
