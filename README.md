@@ -94,12 +94,6 @@ pip install -r requirements.txt
 
 python app.py
 
-4️⃣ Open in browser
-
-http://localhost:8501
-
-
-(If using Streamlit, the app will auto-launch in your browser.)
 
 🧪 Prototype Features (Demo Version)
 
