@@ -44,21 +44,35 @@ Storage-Google Cloud Storage
 🧩 Architecture Diagram
 
 Start / Login
+
       │
+      
       ▼
+      
 Chat with AI (Gemini)
+
       │
+      
       ├──► Mood Tracking
+      
       │         │
+      
       │         └──► Personalized Tips (via Vertex AI)
+      
       │
+      
       ├──► Crisis Detected?
+      
       │       ├── Yes → Connect to Helpline
+      
       │       └── No  → Continue Chat
+      
       │
+      
 End / Logout
 
-🪄 USP – What Makes It Unique
+
+USP – What Makes It Unique
 
 Confidential & stigma-free space for youth mental health.
 
@@ -71,17 +85,23 @@ Personalized wellness plans through AI-driven insights.
 Built on a secure and scalable Google Cloud architecture.
 
 ⚙️ How to Run the Prototype Locally
+
 1️⃣ Clone the repository
+
 git clone https://github.com/Ashwini-12a-coder/wellmind-connect-prototype.git
+
 cd wellmind-connect-prototype
 
 2️⃣ Install dependencies
+
 pip install -r requirements.txt
 
 3️⃣ Run the app
+
 python app.py
 
 4️⃣ Open in browser
+
 http://localhost:8501
 
 
@@ -90,23 +110,28 @@ http://localhost:8501
 🧪 Prototype Features (Demo Version)
 
 ✅ AI Chatbot (Google Gemini API)
+
 ✅ Mood Tracking & Journaling
+
 ✅ Crisis Detection & Alert Simulation
 
-☁️ Deployment
-
-Hosted on: Streamlit Cloud / Firebase / Hugging Face Spaces (optional)
-
-Scalable on: Google Cloud Run + Firebase backend
 
 📂 Project Structure
+
 wellmind-connect-prototype/
+
 │
-├── app.py                     # Main application file
+
+├── app.py      # Main application file
+
 ├── requirements.txt            # Python dependencies
+
 ├── mood_history.json           # Sample mood tracking data
+
 ├── README.md                   # Project documentation
+
 └── assets/                     # (optional) images, UI files
+
 
 🌱 Future Enhancements
 
