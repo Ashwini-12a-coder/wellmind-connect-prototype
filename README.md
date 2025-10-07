@@ -54,7 +54,7 @@ Chat with AI (Gemini)
       │         │   
       
       │         └──► Personalized Tips (via Vertex AI)
-      
+  
       │
       ├──► Crisis Detected?
       
