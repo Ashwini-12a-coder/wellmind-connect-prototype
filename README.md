@@ -7,7 +7,8 @@ WellMind Connect is an AI-powered, confidential, and empathetic mental wellness 
 Our goal is to reduce the stigma surrounding mental health by offering an AI companion that understands, guides, and connects users to verified helplines through a secure, stigma-free digital experience.
 
 💡 Key Features
-Feature	Description
+
+Feature - Description
 
 🤖 Empathetic AI Chatbot (Gemini-based)-Provides multilingual, emotion-aware conversations for daily check-ins and guidance.
 
@@ -22,16 +23,26 @@ Crisis Detection & Helpline Integration-Detects distress signals and connects us
 🔐 Confidential & Secure-Built with Firebase authentication and Google Cloud to ensure privacy.
 
 🚀 Tech Stack
-Layer	Technologies
-Frontend	Streamlit / React / Flutter
-Backend	Python (Flask / FastAPI)
-AI/ML Models	Google Gemini API (chat), Vertex AI (mood analysis)
-Database	Google Cloud Firestore / Cloud SQL
-Authentication	Firebase Authentication
-Deployment	Google Cloud Run / Firebase Hosting
-Notifications	Firebase Cloud Messaging
-Storage	Google Cloud Storage
+
+Layer - Technologies
+Frontend-Streamlit / React / Flutter
+
+Backend-Python (Flask / FastAPI)
+
+AI/ML Models-Google Gemini API (chat), Vertex AI (mood analysis)
+
+Database-Google Cloud Firestore / Cloud SQL
+
+Authentication-Firebase Authentication
+
+Deployment-Google Cloud Run / Firebase Hosting
+
+Notifications-Firebase Cloud Messaging
+
+Storage-Google Cloud Storage
+
 🧩 Architecture Diagram
+
 Start / Login
       │
       ▼
