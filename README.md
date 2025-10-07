@@ -46,13 +46,11 @@ Storage-Google Cloud Storage
 Start / Login
 
       │
-      
       ▼
       
 Chat with AI (Gemini)
 
       │
-      
       ├──► Mood Tracking
       
       │         │
@@ -68,7 +66,6 @@ Chat with AI (Gemini)
       │       └── No  → Continue Chat
       
       │
-      
 End / Logout
 
 
@@ -121,15 +118,10 @@ http://localhost:8501
 wellmind-connect-prototype/
 
 │
-
 ├── app.py      # Main application file
-
 ├── requirements.txt            # Python dependencies
-
 ├── mood_history.json           # Sample mood tracking data
-
 ├── README.md                   # Project documentation
-
 └── assets/                     # (optional) images, UI files
 
 
