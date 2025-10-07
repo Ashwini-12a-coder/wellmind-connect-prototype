@@ -44,27 +44,17 @@ Storage-Google Cloud Storage
 🧩 Architecture Diagram
 
 Start / Login
-
       │
       ▼
-      
 Chat with AI (Gemini)
-
       │
-      ├──► Mood Tracking
-      
-      │         │
-      
+      ├──► Mood Tracking  
+      │         │   
       │         └──► Personalized Tips (via Vertex AI)
-      
       │
-      
       ├──► Crisis Detected?
-      
       │       ├── Yes → Connect to Helpline
-      
       │       └── No  → Continue Chat
-      
       │
 End / Logout
 
